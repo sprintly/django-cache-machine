@@ -1,0 +1,5 @@
+python-django-cache-machine (0.6) unstable; urgency=low
+
+  * Initial packaging
+
+ -- Joe Stump <joe@joestump.net>  Sat, 14 Jan 2012 17:29:21 +0000
